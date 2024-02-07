@@ -45,7 +45,7 @@ Request :
 }'`
 
 Response : 
-
+ 
 `{
      "encryptedData": "encrypted FHIR document",
      "keyToShare": "Public key that needs to be shared with HIU along with encrypeted data"
