@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  USERNAME: sidharthramesh
+  USERNAME: neutralboy
   IMAGE_NAME: ${{ github.repository }}
   PLATFORMS: linux/amd64,linux/arm64/v8
 
